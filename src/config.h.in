@@ -1,0 +1,1 @@
+#cmakedefine HAVE_DECL_TIOCM_RTS ${HAVE_DECL_TIOCM_RTS}
